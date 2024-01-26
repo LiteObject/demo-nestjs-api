@@ -25,8 +25,11 @@ Select a database using the USE statement:
 Use the DESCRIBE or DESC command followed by the table name to see column names and attributes:
 `DESC table_name;`
 
-## Setup Swagger
+## Setup Swagger:
 - https://docs.nestjs.com/openapi/introduction
 
-## NestJS Code Examples
+## NestJS Code Samples:
 - https://github.com/nestjs/nest/tree/master/sample
+
+## TypeORM Code Samples:
+- https://github.com/typeorm/typeorm/tree/master/sample
